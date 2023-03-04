@@ -29,7 +29,7 @@ const AboutUs = () => {
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={25} duration={2} suffix="K" />
+                      <CountUp start={0} end={25} duration={5} suffix="K" />
                     </span>
 
                     <p className="counter__title">Completed Projects</p>
@@ -37,7 +37,7 @@ const AboutUs = () => {
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={12} duration={2} suffix="M" />
+                      <CountUp start={0} end={12} duration={5} suffix="M" />
                     </span>
 
                     <p className="counter__title">Patient Around World</p>
@@ -47,7 +47,7 @@ const AboutUs = () => {
                 <div className=" d-flex gap-5 align-items-center">
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={95} duration={2} suffix="M" />
+                      <CountUp start={0} end={95} duration={5} suffix="M" />
                     </span>
 
                     <p className="counter__title">Ideas Raised Funds</p>
@@ -55,7 +55,7 @@ const AboutUs = () => {
 
                   <div className="single__counter">
                     <span className="counter">
-                      <CountUp start={0} end={5} duration={2} suffix="K" />
+                      <CountUp start={0} end={5} duration={5} suffix="K" />
                     </span>
 
                     <p className="counter__title">Categories Served</p>
