@@ -22,6 +22,7 @@ const FeatureData = [
   },
 ];
 
+// you can also use concept of props for this component
 const Features = () => {
   return (
     <section>
