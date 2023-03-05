@@ -114,9 +114,9 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
+            <p>Address: Kigali - Rwanda</p>
             <p> Phone: +250780470310 </p>
-            <p>Email: nteziryayocelestin4@gmail.com</p>
+            <p>Email: example@gmail.com</p>
           </Col>
         </Row>
       </Container>
