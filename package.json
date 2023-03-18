@@ -17,6 +17,7 @@
     "reactstrap": "^9.1.6",
     "remixicon": "^2.5.0",
     "slick-carousel": "^1.8.1",
+    
     "web-vitals": "^2.1.4"
   },
   "scripts": {
